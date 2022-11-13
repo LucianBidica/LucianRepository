@@ -27,4 +27,4 @@ jobs:
 
     - name: Run Python Code
       run: |
-        fisier_python.py
+        python3 fisier_python.py
